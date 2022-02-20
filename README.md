@@ -44,7 +44,7 @@ const myStack = {
 
 ### 📊 My GitHub's Stats
 
-![Alejandro Barua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neriheredia)
+![Neri HEREDIA GitHub Stats](https://github-readme-stats.vercel.app/api?username=neriheredia)
 
 ### Languages and Tools
 
@@ -53,7 +53,7 @@ const myStack = {
 ### My proyects
 
 <p>
-  <a href="https://portfolio-alejandrobarua.netlify.app" target="_blank" rel="noreferrer" 
+  <a href="https://portafolio-neriheredia.netlify.app/" target="_blank" rel="noreferrer" 
     style='padding-right:15px;'>
     <img src="./img/portadaEcom.jpg" width='44.2%' height='150px' style='border-radius: 5px;'>
   </a>
