@@ -9,13 +9,13 @@ const myStack = {
   technologies: [
     {
       frontEnd: {
-        javascript: ["React", "Redux", "Redux/Toolkit", "Persist"],
+        javascript: ["React", "Redux", "Redux/Toolkit", "Persist","React Native", "GraphQL", "CubeJs"],
         css: ["Styled Components", "CSS Modules", "SASS", "Bootstrap"],
       },
     },
     {
       backEnd: {
-        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose"],
+        javascript: ["NodeJS", "Express", "Sequelize", "Mongoose","Apollo Server"],
       },
       databases: ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
     },
