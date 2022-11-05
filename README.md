@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3397f4&size=40&vCenter=true&width=600&height=80&lines=Hi,+Everyone!+👋;I+am+Neri+Heredia;Welcome+to+my+repo!)](https://portafolio-neriheredia.netlify.app/)
 
 <h2><strong>🤓 ABOUT ME</strong></h2>
-<p><strong>I am a Full-Stack Developer</strong>, with more than <strong>1 year of experience in Web Application Development, both in the Front-End and Back-End.</strong> I am <strong>looking for a job opportunity</strong> where I could share and increase my knowledge. I regard myself as a <strong>problem solving person, collaborative, creative and passionate about programming</strong>, ready to face new challenges.<p>
+<p><strong>I am a Full-Stack Developer</strong>, with experience in Web and Mobile Application Development, both Front-End and Back-End. Every day I keep looking for challenges, challenges, so I can improve professionally.
+I consider myself a decisive, collaborative, creative and passionate person for programming.
 
+One of my greatest motivations is to learn and help. Always studying and updating myself on everything new and helping those people who are just starting out in this beautiful world of programming.</p>
+  
 ```javascript
 const myStack = {
   code: ["Javascript", "HTML", "CSS"],
